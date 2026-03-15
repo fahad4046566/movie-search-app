@@ -201,7 +201,7 @@ VITE_REACT_APP_API_KEY=your_tmdb_api_key
 - Social sharing
 
 ## Live Link
-https://movie-search-app-ten-murex.vercel.app/movies
+https://movie-search-dbo9nnibx-fahad-bashirs-projects-0a697a81.vercel.app/
 
 ---
 
