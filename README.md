@@ -46,7 +46,7 @@ A modern, responsive web application built with React and Vite that allows users
 
 1. **Clone the repository**
 ```bash
-git clone <repository-url>
+git clone https://github.com/fahad4046566/movie-search-app
 cd "Movie Search"
 ```
 
@@ -200,11 +200,8 @@ VITE_REACT_APP_API_KEY=your_tmdb_api_key
 - User reviews and ratings
 - Social sharing
 
-## 📄 License
-This project is open source and available under the MIT License.
-
-## 👨‍💻 Author
-Built with ❤️ as a personal React learning project
+## Live Link
+https://movie-search-app-ten-murex.vercel.app/movies
 
 ---
 
