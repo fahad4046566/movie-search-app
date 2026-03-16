@@ -203,6 +203,7 @@ VITE_REACT_APP_API_KEY=your_tmdb_api_key
 ## Live Link
 https://movie-search-dbo9nnibx-fahad-bashirs-projects-0a697a81.vercel.app/
 
+
 ---
 
 **Note:** This project requires an active internet connection and a valid TMDB API key to function.
